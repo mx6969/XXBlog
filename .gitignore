@@ -1,0 +1,4 @@
+# Project exclude paths
+/xxblog-admin/target/
+/xxblog-blog/target/
+/xxblog-framework/target/
